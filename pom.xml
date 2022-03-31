@@ -19,7 +19,7 @@
         <dependency>
             <groupId>us.careydevelopment.util</groupId>
             <artifactId>google-api-util</artifactId>
-            <version>1.1.0-SNAPSHOT</version>
+            <version>1.1.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
